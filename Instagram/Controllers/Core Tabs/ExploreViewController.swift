@@ -1,20 +1,22 @@
 //
-//  ViewController.swift
+//  ExploreViewController.swift
 //  Instagram
 //
-//  Created by Anthony Kim on 8/24/20.
+//  Created by Anthony Kim on 8/26/20.
 //  Copyright © 2020 Anthony Kim. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class ExploreViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
+    
 
+ 
 
 }
-
